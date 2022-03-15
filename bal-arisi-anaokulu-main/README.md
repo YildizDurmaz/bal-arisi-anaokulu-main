@@ -6,7 +6,7 @@
 Mobil uygulama giriş ekranı görselde görüldüğü gibidir. Kullanıcı adı ve şifre girildiğinde sağda bulunan görsel ile uygulamaya giriş yapılır.Kulanıcı adı ve şifre girildiğinde bu bilgiler yanlış ise ekrana "Kullanıcı bilgileriniz hatalı" şeklinde bilgilerinizin hatalı olduğuna dair bilgilendirici bir mesaj vermektedir.
 
 ![Giris Ekrani](/bal-arisi-anaokulu-main/images/Resim1.png)
-![Giris Ekrani 2](/images/Resim2.png)
+![Giris Ekrani 2](/bal-arisi-anaokulu-main/images/Resim2.png)
 
 
 
@@ -16,9 +16,9 @@ Mobil uygulama giriş ekranı görselde görüldüğü gibidir. Kullanıcı adı
 ##	Kaydol
 Giriş ekranında kaydol butonuna basıldığında ilk görselde görülen ekran  açılır. Aynı şekilde kullanıcı adı ve şifre istenilen ekranda “Hesap edin” butonuna tıklanıldığında da bu sayfaya yönlendirilme işlemi yapılır. Uygulama sadece veli kullanımına açıktır. Bu nedenle bilgilendirme bölümü bu şekilde gelir. Bu alanda iletişim bilgileri ve sosyal medya ikonları da bulunmkatadır. İlgili alanlara tıklanarak gerekli sayfalara erişim sağlanabilmektedir.
 
-![İletisim Bilgi Ekrani](/images/Resim4.png)
-![İletisim](/images/Resim6.png)
-![Sosyal Medya](/images/Resim5.png)
+![İletisim Bilgi Ekrani](/bal-arisi-anaokulu-main/images/Resim4.png)
+![İletisim](/bal-arisi-anaokulu-main/images/Resim6.png)
+![Sosyal Medya](/bal-arisi-anaokulu-main/images/Resim5.png)
 
 
                          
