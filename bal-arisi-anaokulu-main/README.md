@@ -5,7 +5,7 @@
 ## Uygulama Giriş Ekranı
 Mobil uygulama giriş ekranı görselde görüldüğü gibidir. Kullanıcı adı ve şifre girildiğinde sağda bulunan görsel ile uygulamaya giriş yapılır.Kulanıcı adı ve şifre girildiğinde bu bilgiler yanlış ise ekrana "Kullanıcı bilgileriniz hatalı" şeklinde bilgilerinizin hatalı olduğuna dair bilgilendirici bir mesaj vermektedir.
 
-![Giris Ekrani](bal-arisi-anaokulu-main//images/Resim1.png)
+![Giris Ekrani](bal-arisi-anaokulu-main/images/Resim1.png)
 ![Giris Ekrani 2](/images/Resim2.png)
 
 
