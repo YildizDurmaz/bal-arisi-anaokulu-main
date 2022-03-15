@@ -25,44 +25,44 @@ Giriş ekranında kaydol butonuna basıldığında ilk görselde görülen ekran
 ## Ana Sayfa
 Giriş yapıldığında ilk bu ekrana yönlendirilme yapılaktadır. Bu sayfada yapılan etkinlikler, etkinliklere ait fotoğraflar ve açıklamalar yer almaktadır. Sayfanın bu alanı, web sitesi ile senkronize olarak ilerlemektedir. Sağdaki görselde bulunan alanda uygulamanın akışı ilerleyiş şekli yer almaktadır. Bu sekmeden profil, yardım, iletişim vb. bölümlere erişim sağlanabilmektedir. Ayrıca bu alandan  hesap çıkışı yapmak da mümkündür.
 
-![Ana Sayfa 1](/images/Resim9.png)
-![Ana Sayfa2](/images/Resim8.png)
+![Ana Sayfa 1](/bal-arisi-anaokulu-main/images/Resim9.png)
+![Ana Sayfa2](/bal-arisi-anaokulu-main/images/Resim8.png)
 
 
   
 ## Profil
 Profil ekranı görseldeki gibi yer almaktadır. Burada velilere ait öğrenci bilgileri,öğrenci bilgileri, ödemeler, dosya (rapor vb.) yükleme, galeri ve servis takip alanları bulunmaktadır.Bu alanlar sayesinde gün içerisinde çocuğunuzla ilgili atılan görselleri görmek, çocuğunuzun servisinin takibini yaparak çocuğunuzun eve gelip gelmediğini ya da nerede olduğu görülebilmektedir.Dosya yükleme kısmında ise verilen ödevleri ya da çocuğunuzun hastalık durumunda raporunun okula gidilmeden öğretmenine bu dosyayı yükleyerek iletmek mümkündür.
 
-![Profil](/images/Resim10.png)
+![Profil](/bal-arisi-anaokulu-main/images/Resim10.png)
 
  
 ## Öğrenci Bilgileri
 Veliye ait öğrenci bilgilerine profilden erişilebilmektedir. 
 Bu sekmede kurumda birden fazla öğrencisi olan veliler, sayfada kaydırma yaparaköğrencilerine ait gerekli bütün bilgilere ulaşım sağlayabilmektedirler.
 
-![Ogrenci Bilgi Ekrani](/images/Resim11.png)
+![Ogrenci Bilgi Ekrani](/bal-arisi-anaokulu-main/images/Resim11.png)
 
  
 ##	Galeri
 Bu kısımda kuruma ait fotoğraflar yer almaktadır. Hem etkinlik fotoğrafları hem de kurum içi faaliyetlere dair görseller mevcuttur. Bu ekran web sitesi ile senkronize şekilde ilerlemektedir.
 
-![Galeri](/images/Resim13.png)
+![Galeri](/bal-arisi-anaokulu-main/images/Resim13.png)
 
 
 ##	Dosya Yükle
 Bu alanda hem telefon içerisindeki galeri kullanılarak hem de kameradan fotoğraf çekerek görsel eklenip dosya gönderimi sağlanmaktadır. 
 
-![Giris Ekrani](/images/Resim12.png)
+![Giris Ekrani](/bal-arisi-anaokulu-main/images/Resim12.png)
 
 ## Mesajlaşma Sistemi
 Web ile senkronize olarak çalışan bu mesajlaşma sistemi veliler, öğretmen ve yöneticiler ile iletişim halinde kalarak oluşan sorunlar ve sorular  en kısa sürede çözüme kavuşabilmesi açısından bu hedef doğrultusunda amaçlanarak oluşturulmuştur.
 
-![Mesajlasma Ekrani](/images/Resim15.png)
+![Mesajlasma Ekrani](/bal-arisi-anaokulu-main/images/Resim15.png)
  
 ##	Yardım
 Yardım butonuna tıklanıldığında gelen ekran bu şekilde görülmektedir. Burada canlı görüşme butonu tıklayarak  müşterilerin ihtiyacına yönelik destek sağlanmaktadır. Canlı görüşme ile velilerin sorunlarına daha hızlı çözüm sağlanmaktadır.
 
-![Yardim](/images/Resim14.png)
+![Yardim](/bal-arisi-anaokulu-main/images/Resim14.png)
 
 
 
@@ -70,11 +70,11 @@ Yardım butonuna tıklanıldığında gelen ekran bu şekilde görülmektedir. B
 
 [Ana Sayfa ](https://www.balarısı.com)
 
-![Ana Sayfa](/images/Resim16.png)
+![Ana Sayfa](/bal-arisi-anaokulu-main/images/Resim16.png)
 
 [Etkinlik sayfası için](https://www.balarısı.com/etkinlikler)
 
-![Etkinlik](/images/Resim17.png)
+![Etkinlik](/bal-arisi-anaokulu-main/images/Resim17.png)
 
 
 
