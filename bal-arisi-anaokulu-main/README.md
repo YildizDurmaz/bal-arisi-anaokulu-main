@@ -9,7 +9,7 @@ Mobil uygulama giriş ekranı görselde görüldüğü gibidir. Kullanıcı adı
 ![Giris Ekrani](/bal-arisi-anaokulu-main/images/Resim1.png)
 
 
-![**Giris Ekrani 2](/bal-arisi-anaokulu-main/images/Resim2.png)
+![Giris Ekrani 2](/bal-arisi-anaokulu-main/images/Resim2.png)
 
 
 
