@@ -1,4 +1,5 @@
 # Bal Arısı Anaokulu
+!(/bal-arisi-anaokulu-main/images/resim.png)
 
 # Image
 
